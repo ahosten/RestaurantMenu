@@ -1,0 +1,22 @@
+/* custom css page for restaurant */
+/* body{
+background-color: green;
+
+} */
+
+div.hours p{
+font-size: 20px;
+}
+
+div.address p{
+font-size: 20px;
+}
+
+h1.header {
+text-align: center;
+font-size: 40px
+}
+
+h3.special{
+color: red;
+}
