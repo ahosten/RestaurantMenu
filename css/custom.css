@@ -24,3 +24,18 @@ color: red;
 .history{
 text-align:center;
 }
+
+div.history p{
+font-size: 20px;
+}
+
+.carousel-inner{
+    width: 70%; /* for example */
+    margin: auto;
+}
+
+./* carousel-inner > .item > img, 
+.carousel-inner > .item > a > img{
+width: 100%; /* use this, or not */
+margin: auto;
+} */
